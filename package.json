@@ -1,14 +1,8 @@
 {
   "name": "whatsapp-business-bot",
   "version": "1.0.0",
-  "description": "Simple WhatsApp Business API auto-reply and customer logging bot",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "description": "WhatsApp Business API auto-reply bot with Airtable CRM, built for Vercel",
   "dependencies": {
-    "express": "^4.19.2",
-    "axios": "^1.7.2",
-    "dotenv": "^16.4.5"
+    "axios": "^1.7.2"
   }
 }
